@@ -5,4 +5,5 @@ package com.after00.guava;
  */
 public class guavaTest {
 
+
 }
