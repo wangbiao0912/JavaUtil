@@ -1,6 +1,9 @@
 package com.after00.other;
 
 
+import org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntry;
+import org.apache.commons.compress.archivers.sevenz.SevenZFile;
+
 import java.io.*;
 import java.nio.charset.Charset;
 
