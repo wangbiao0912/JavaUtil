@@ -33,6 +33,7 @@ public class DictionaryUtilTest {
         DictionaryUtil.validate(params, lengthMin, lengthMax, myCheck);
     }
 
+    
     /**
      * 生成全量字典.
      * 
