@@ -2,7 +2,6 @@
  * 文件名：FileUtil.java
  * 版权：Copyright 2007-2016 zxiaofan.com. Co. Ltd. All Rights Reserved. 
  * 描述： FileUtil.java
- * 修改人：zxiaofan
  * 修改时间：2017年04月07日
  * 修改内容：新增
  */

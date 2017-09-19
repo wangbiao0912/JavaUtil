@@ -9,10 +9,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-/**
- * 
- * @author xiaofan
- */
 public class DictionaryUtilTest {
     static String path7ZFile = "E:\\123.7z";
 

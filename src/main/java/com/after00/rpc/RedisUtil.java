@@ -2,7 +2,6 @@
  * 文件名：RedisUtil.java
  * 版权：Copyright 2007-2017 zxiaofan.com. Co. Ltd. All Rights Reserved. 
  * 描述： RedisUtil.java
- * 修改人：zxiaofan
  * 修改时间：2017年2月8日
  * 修改内容：新增
  */
