@@ -17,7 +17,6 @@ import org.apache.http.util.EntityUtils;
 /**
  * HttpClient的Http工具类.
  * 
- * @author yunhai
  */
 public class HttpClientUtil {
     /**
